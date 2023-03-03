@@ -1,0 +1,10 @@
+@article{liu2021zen,
+  title={Zen: a high-throughput Log-free OLTP Engine for Non-volatile Main Memory},
+  author={Liu, Gang and Chen, Leying and Chen, Shimin},
+  journal={Proceedings of the VLDB Endowment},
+  volume={14},
+  number={5},
+  pages={835--848},
+  year={2021},
+  publisher={VLDB Endowment}
+}
