@@ -1,4 +1,4 @@
-@article{REPO-311,
+@article{REPO-310,
     author = "Liu, Gang and Chen, Leying and Chen, Shimin",
     journal = "Proceedings of the VLDB Endowment",
     number = "5",
